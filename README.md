@@ -4,11 +4,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on: My personal project about "the best workspace ever".
-- 🌱 I’m currently learning: More skill about web dev based on python, especially flask and PostgreSQL(which is granted as the best SQL language ever, I will figure it out)
-- 👯 I’m currently collaborating on: Ride-on-Race, which is a platformer game based on unity engine. Just a side mission though.
-- 🤔 I’m looking for help with: My own game project Nine-Days. This will be a tough work, and I intend to finish the demo of it during this summer vacation(apporximate before Sept 1st 2025), and now I deadly need 2D game designers.
-- 💬 Ask me about: In fact there do not really think there is anything I could been asked :( But I am sure I will learn plenty of things from people here :)
+- 🔭 I’m currently working on: My project about "the best workspace ever".
+- 🌱 I’m currently learning: More skills about web dev based on Python, especially Flask and PostgreSQL(which is granted as the best SQL language ever, I will figure it out)
+- 👯 I’m currently collaborating on: Ride-on-Race, which is a platformer game based on the Unity engine. Just a side mission though.
+- 🤔 I’m looking for help with my game project, Nine-Days. This will be tough work, and I intend to complete the demo during this summer vacation (approximately before September 1st, 2025). I now urgently need 2D game designers.
+- 💬 Ask me about: In fact, I do not think there is anything I could have been asked :( But I am sure I will learn plenty of things from people here :)
 - 📫 How to reach me: Main email address: gellar@tutatnota.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: The digit(10-base) sum of my birthday, my father's birthday, my grandfather's birthday all equals to 10.
+- ⚡ Fun fact: The digit(10-base) sum of my birthday, my father's birthday, and my grandfather's birthday all equals 10.
